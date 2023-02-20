@@ -26,6 +26,8 @@ class _MyAppState extends State<MyApp> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Text(temp),
+          Text(temp),
+          Text("yoyo"),
           ElevatedButton(onPressed: (){
             setState(() {
               tem = "world";
