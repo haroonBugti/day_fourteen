@@ -25,6 +25,9 @@ class _MyAppState extends State<MyApp> {
       home: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
+          Text('hi'),
+          Text('hey'),
+          Text('hello'),
           Text(temp),
           ElevatedButton(onPressed: (){
             setState(() {
