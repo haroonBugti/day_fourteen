@@ -28,7 +28,7 @@ class _MyAppState extends State<MyApp> {
           Text(temp),
           ElevatedButton(onPressed: (){
             setState(() {
-              tem = "world is myuuuuuuscjksbcjkasbcjkasbcjkasbcjka";
+              tem = "world is mygit xuuuuuuscjksbcjkasbcjkasbcjkasbcjka";
             });
           }, child: Text("click my name"))
 
